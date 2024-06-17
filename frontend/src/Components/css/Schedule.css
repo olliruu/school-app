@@ -1,0 +1,41 @@
+.table-cell{
+    border-right: solid #cccccc 1px;
+    border-left: solid #cccccc 1px;
+    width:18%;
+    
+}
+
+.table-cell-first{
+    border-right: solid #cccccc 1px;
+    border-left: solid #cccccc 1px;
+    width:10%;
+    white-space: pre-line;
+}
+
+.lesson{
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.schedule {
+    position:relative;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+button{
+    padding-left:10px;
+    margin-right:10px;
+}

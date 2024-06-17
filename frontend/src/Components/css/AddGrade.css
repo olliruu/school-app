@@ -1,0 +1,26 @@
+.button-parent{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.box {
+	width:100%;
+	margin-top:20px;
+	padding-top:10px;
+}
+
+.stepper{
+	padding-bottom:20px;
+}
+
+.parent-center {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-bottom:20px;
+}
+
+.button {
+	width:50%;
+}

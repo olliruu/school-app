@@ -1,0 +1,9 @@
+.buttonLeft{
+	margin-top:20px;
+	
+}
+
+.parent {
+	display:flex;
+	flex-direction:row-reverse;
+}

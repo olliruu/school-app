@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Olli Ruuskanen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.11",
+    "express": "^4.19.2",
+    "express-ws": "^5.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1"
+  }
+}
